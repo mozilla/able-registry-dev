@@ -1,0 +1,10 @@
+{
+  "name": "able-registry-dev",
+  "description": "registry for mozilla Able projects",
+  "license": "MPL 2.0",
+  "private": true,
+  "able": [
+    "git://github.com/dannycoates/able-fxa-content-server.git",
+    "git://github.com/dannycoates/able-demo.git"
+  ]
+}
